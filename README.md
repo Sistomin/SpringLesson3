@@ -30,4 +30,4 @@ Spring. Оно может не выглядеть очень впечатляю�
 
 Тестирование приложения выполнено через Postman
 ![Image alt](https://github.com/Sistomin/SpringLesson3/blob/master/get.PNG)
-![Image alt](https://github.com/{username}/{repository}/raw/{branch}/{path}/image.png)
+![Image alt](https://github.com/Sistomin/SpringLesson3/blob/master/post.PNG)
